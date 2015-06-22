@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NFL12 Bars</string>
+    <string name="share">Share</string>
+    <string name="call_venue">Call Venue</string>
+    <string name="share_title">Share Venue Address</string>
+</resources>

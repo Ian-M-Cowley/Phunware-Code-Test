@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="spacer_xs">3dp</dimen>
+    <dimen name="spacer_s">5dp</dimen>
+    <dimen name="spacer_m">10dp</dimen>
+    <dimen name="spacer_l">15dp</dimen>
+    <dimen name="spacer_xl">20dp</dimen>
+
+    <dimen name="textsize_xs">10sp</dimen>
+    <dimen name="textsize_s">12sp</dimen>
+    <dimen name="textsize_m">14sp</dimen>
+    <dimen name="textsize_l">18sp</dimen>
+    <dimen name="textsize_xl">24sp</dimen>
+    <dimen name="textsize_xxl">30sp</dimen>
+
+</resources>
